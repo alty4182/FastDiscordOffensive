@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastDiscordOffensive", "FastDiscordOffensive\FastDiscordOffensive.csproj", "{82D4322A-23B7-4A78-950E-C70E97283FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82D4322A-23B7-4A78-950E-C70E97283FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D4322A-23B7-4A78-950E-C70E97283FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D4322A-23B7-4A78-950E-C70E97283FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D4322A-23B7-4A78-950E-C70E97283FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0B2920F-30C9-49ED-AE35-8EAC22E7442A}
+	EndGlobalSection
+EndGlobal
