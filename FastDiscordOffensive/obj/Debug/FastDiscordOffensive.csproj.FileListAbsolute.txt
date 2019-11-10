@@ -1,0 +1,10 @@
+C:\Users\alty4\source\repos\FastDiscordOffensive\FastDiscordOffensive\bin\Debug\FastDiscordOffensive.exe.config
+C:\Users\alty4\source\repos\FastDiscordOffensive\FastDiscordOffensive\bin\Debug\FastDiscordOffensive.exe
+C:\Users\alty4\source\repos\FastDiscordOffensive\FastDiscordOffensive\bin\Debug\FastDiscordOffensive.pdb
+C:\Users\alty4\source\repos\FastDiscordOffensive\FastDiscordOffensive\obj\Debug\FastDiscordOffensive.csprojAssemblyReference.cache
+C:\Users\alty4\source\repos\FastDiscordOffensive\FastDiscordOffensive\obj\Debug\FastDiscordOffensive.exe
+C:\Users\alty4\source\repos\FastDiscordOffensive\FastDiscordOffensive\obj\Debug\FastDiscordOffensive.pdb
+C:\Users\alty4\source\repos\FastDiscordOffensive\FastDiscordOffensive\bin\Debug\Anarchy.dll
+C:\Users\alty4\source\repos\FastDiscordOffensive\FastDiscordOffensive\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alty4\source\repos\FastDiscordOffensive\FastDiscordOffensive\bin\Debug\websocket-sharp-with-proxy-support.dll
+C:\Users\alty4\source\repos\FastDiscordOffensive\FastDiscordOffensive\obj\Debug\FastDiscordOffensive.csproj.CopyComplete
